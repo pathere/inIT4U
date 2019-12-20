@@ -1,5 +1,0 @@
-deployment:
-  production:
-    branch: master
-    commands:
-    - bash -x ./scripts/deploy-ghpages.sh build
